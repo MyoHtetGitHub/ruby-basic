@@ -8,4 +8,5 @@
 ### string interpolation 
 - > single quotes does not work in string interpolation so tha we can used double quotes
 
+ > **irb** is important for running on terminal
   
