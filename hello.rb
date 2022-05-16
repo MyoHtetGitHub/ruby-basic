@@ -29,3 +29,5 @@ puts "Enter you name"
 input =gets.chomp
 
 puts "My name is #{input}"
+
+20.times {print "-"}
